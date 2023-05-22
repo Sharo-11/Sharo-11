@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sharvari-dubey-806717227/](https://www.linkedin.com/in/sharvari-dubey-806717227/)
 
+- 📑 Know about me [https://sharodubey.dorik.io/](https://sharodubey.dorik.io/)
+
 - ⚡ Fun fact **I am an anime freak😎**
 
 <h3 align="left">Connect with me:</h3>
