@@ -3,7 +3,7 @@
 
 <img align = "right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-- 🌱 I’m currently learning **Python and Web Devlopment**
+- 🌱 I’m currently learning **Python and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sharo-11](https://github.com/Sharo-11)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sharvari-dubey-806717227/](https://www.linkedin.com/in/sharvari-dubey-806717227/)
 
-- 📑 Know about me [https://sharodubey.dorik.io/](https://sharodubey.dorik.io/)
+- 📑 Know about me [https://portfolio-sharo.vercel.app/)
 
 - ⚡ Fun fact **I am an anime freak😎**
 
