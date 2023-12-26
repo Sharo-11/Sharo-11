@@ -19,22 +19,23 @@
 
 - 🌐 Connect with me on [TryHackMe](https://tryhackme.com/p/Sharo11)
 
-- 📄 Know about my experiences [https://portfolio-sharo.vercel.app/](https://portfolio-sharo.vercel.app/)
+- 📄 Know about my experiences [Portfolio Link](https://portfolio-sharo.vercel.app/)
 
 - ⚡ Fun fact: **I am an anime freak 😎**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/sharo_1113" target="blank">
+ <a href="https://twitter.com/Sharo_1113" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharo_1113" height="30" width="40" />
   </a>
   <span style="padding: 0 15px;"> <!-- Added more spacing -->
-    <a href="https://linkedin.com/in/sharvari dubey" target="blank">
-      <img align="center" src="./images/tryhackme_logo.png" alt="sharvari dubey" height="30" width="60" />
+    <a href="https://tryhackme.com/p/Sharo11" target="blank">
+      <img align="center" src="./images/tryhackme_logo.png" alt="sharo11" height="30" width="60" />
     </a>
   </span>
   <span style="padding: 0 15px;"> <!-- Added more spacing -->
-    <a href="https://linkedin.com/in/sharvari dubey" target="blank">
+    <a href="https://www.linkedin.com/in/sharvari-dubey-806717227/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharvari dubey" height="30" width="40" />
     </a>
   </span>
