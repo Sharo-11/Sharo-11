@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharo</h1>
 <span style="padding: 0 15px;"> <!-- Added more spacing -->
-<h3 align="center">Code, Secure, Build: Junior Python Developer, Cyber Security Analyst, and Web Development Enthusiast</h3>
+<h2 align="center">Code, Secure, Build: Junior Python Developer, Cyber Security Analyst, and Web Development Enthusiast</h2>
   <span style="padding: 0 15px;"> <!-- Added more spacing -->
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
