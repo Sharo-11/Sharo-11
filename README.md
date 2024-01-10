@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-- 🔭 Actively contributing to **cybersecurity challenges on platforms like Hack The Box. Currently immersed in a penetration testing project aimed at improving my ethical hacking skills.**
+- 🔭 Actively contributing to **cybersecurity challenges on platforms like Hack The Box, TryHackMe. Currently immersed in a penetration testing project aimed at improving my ethical hacking skills.**
 
 - 🌱 I’m currently learning **advanced Python concepts, mastering cybersecurity techniques, and exploring the vast world of web development.**
 
