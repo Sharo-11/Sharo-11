@@ -19,7 +19,7 @@
 
 - 🌐 Connect with me on [TryHackMe](https://tryhackme.com/p/Sharo11)
 
-- 📄 Know about my experiences [Portfolio Link]([https://portfolio-2-0-orpin.vercel.app/])
+- 📄 Know about my experiences [Portfolio Link](https://portfolio-2-0-orpin.vercel.app/)
 
 - ⚡ Fun fact: **I am an anime freak 😎**
 
